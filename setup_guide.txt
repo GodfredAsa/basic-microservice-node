@@ -1,0 +1,14 @@
+- npx create-react-app client
+
+CREATING POST SERVICE 
+- mkdir posts and cd in 
+- npm init -y : create package.json file  
+- npm install express cors axios nodemon : installing packages 
+
+CREATING COMMENTS SERVICE 
+- mkdir posts and cd in 
+- npm init -y : create package.json file  
+- npm install express cors axios nodemon : installing packages 
+
+CREATE A DIRECTORY EVENT BUS 
+- npm install express nodemon axios
